@@ -45,14 +45,8 @@ This project combines web scraping and RAG-based chatbot to answer natural langu
 
 <h3>🛠️ Installation</h3>
 <pre>
-git clone https://github.com/yourusername/zomato-genai-assignment.git
-cd zomato-genai-assignment
+git clone https://github.com/ddivyansh04/Gen-Ai-Nugget.git
 pip install -r requirements.txt
-</pre>
-
-<h3>▶️ Run the App</h3>
-<pre>
-streamlit run ui/app.py
 </pre>
 
 <h2>🧠 Query Examples</h2>
