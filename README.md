@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Zomato Gen AI - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-      background: #fefefe;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #d9230f;
-    }
-    code {
-      background: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-      border-left: 4px solid #d9230f;
-    }
-    .badge {
-      margin: 0 5px;
-    }
-  </style>
-</head>
-<body>
 
 <h1>🍽️ Zomato Gen AI: Restaurant Data Scraper & RAG Chatbot</h1>
 
