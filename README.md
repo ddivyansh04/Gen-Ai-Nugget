@@ -1,4 +1,3 @@
-# 🍽️ Zomato Gen AI: Restaurant Data Scraper & RAG Chatbot
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,26 +70,6 @@ This project combines web scraping and RAG-based chatbot to answer natural langu
 [Web Scraper] → [Preprocessing & Knowledge Base] → [Retriever] → [Generator (HF)] → [Response]
                                                ↑                                         ↓
                                           [Indexing]                              [User Interface]
-</pre>
-
-<h2>📂 Project Structure</h2>
-<pre>
-├── data/
-│   ├── raw/
-│   └── processed/
-├── scraper/
-│   ├── scrape.py
-├── rag_chatbot/
-│   ├── retrieval.py
-│   ├── generation.py
-│   ├── chatbot.py
-├── ui/
-│   ├── app.py
-├── utils/
-│   ├── preprocessing.py
-├── README.md
-├── requirements.txt
-└── demo.mp4
 </pre>
 
 <h2>🚀 Getting Started</h2>
@@ -166,8 +145,8 @@ streamlit run ui/app.py
 
 <h2>📬 Contact</h2>
 <p>
-  👩‍💻 <strong>Archie Agarwal</strong><br/>
-  📧 archie.agrawal@email.com<br/>
+  👩‍💻 <strong>Divyansh Diwakar</strong><br/>
+  📧 divyansh_d@ch.iitr.ac.in<br/>
   📍 IIT Roorkee | Chemical Engineering
 </p>
 
